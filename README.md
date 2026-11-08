@@ -7,6 +7,7 @@ Write-ups of the labs I completed in **Data C102: Data, Inference, and Decisions
 | # | Topic | Labs | Key tools |
 |---|---|---|---|
 | 1 | [Hypothesis Testing & Decision Theory](01-hypothesis-testing-and-decisions/) | 1–3 | NumPy, SciPy |
+| 2 | [Bayesian Inference & GLMs](02-bayesian-inference-and-glms/) | 4–6 | PyMC, Bambi, ArviZ, statsmodels |
 | 3 | [Prediction & Causal Inference](03-prediction-and-causal-inference/) | 7–9 | scikit-learn, statsmodels |
 
 These methods fed directly into my course research project, [air-quality-economic-mobility](https://github.com/HuyKDao/air-quality-economic-mobility).
